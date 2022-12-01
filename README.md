@@ -1,4 +1,3 @@
-All from https://github.com/sveltejs/realworld 
 
 # Svelte + Vite
 
