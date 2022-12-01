@@ -1,3 +1,4 @@
+Contents from https://vitejs.dev/guide/
 
 # Svelte + Vite
 
